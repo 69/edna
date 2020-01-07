@@ -4,6 +4,9 @@
 **edna** is an **e**moji **d**omain **n**ame **a**vailability checker written in javascript.
 
 it utilises the [whoisxmlapi](https://www.whoisxmlapi.com) API.
+<p align="center">
+  <img src="https://i.imgur.com/RNyqkoV.png">
+</p>
 
 # Setup
 - run `yarn` to download the packages
