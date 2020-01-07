@@ -1,5 +1,5 @@
 const Express = require('express');
-const request = require('request-promise');
+const request = require('request-promise-native');
 
 const app = new Express();
 const env = require('dotenv').config().parsed;
