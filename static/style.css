@@ -20,7 +20,7 @@ button {
   color: #fdf6e3;
   border: 1px solid #dcdcdc;
   text-align: center;
-  background: transparent;
+  background: transparent
 }
 
 #domains {
@@ -29,7 +29,7 @@ button {
   align-items: center;
   flex-wrap: wrap;
   padding: 5vmax;
-  padding-top: 1vmax;
+  padding-top: 1vmax
 }
 
 .unknown {
@@ -48,8 +48,7 @@ button {
   padding: 10px;
   margin: 10px;
   background-color: #073642;
-  border-radius: 5px;
-
+  border-radius: 5px
 }
 
 a {
@@ -58,5 +57,5 @@ a {
 }
 
 h1 {
-  margin: 0;
+  margin: 0
 }
